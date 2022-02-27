@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord Gen. Cromwel's letter: with a narrative of the proceedings of the English Army in Scotland, and a declaration of the General Assembly, touching the dis-owning their King and his interest. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80949</idno>
+            <idno type="STC">Wing C7115</idno>
+            <idno type="STC">Thomason E610_4</idno>
+            <idno type="STC">ESTC R206333</idno>
+            <idno type="EEBO-CITATION">99865505</idno>
+            <idno type="PROQUEST">99865505</idno>
+            <idno type="VID">165718</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80949)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165718)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 94:E610[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord Gen. Cromwel's letter: with a narrative of the proceedings of the English Army in Scotland, and a declaration of the General Assembly, touching the dis-owning their King and his interest. Published by authority.</title>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+                  <author>Church of Scotland. General Assembly.</author>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edward Husband and John Field, Printers to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Aug. 23. 1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165718:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 71 -->
+            <p>The Lord Gen. <hi>Cromwel</hi>'s LETTER: WITH A NARRATIVE OF The Proceedings of the Engliſh Army in SCOTLAND, And a DECLARATION OF THE General Aſſembly, Touching the Diſ-owning their KING And his INTEREST.</p>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Edward Husband</hi> and <hi>John Field,</hi> Prin<g ref="char:EOLhyphen"/>ters to the Parliament of <hi>England,</hi> Aug. 23. 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:165718:2"/>
+            <!-- PDF PAGE 72 -->
+            <pb n="3" facs="tcp:165718:2"/>
+            <!-- PDF PAGE 72 -->
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>TUeſday <hi>Auguſt</hi> 13. the Army advanced from <hi>Muſcleborough</hi> to the Weſt ſide of <hi>Edinburgh,</hi> and ſo in ſight of the City for two or three miles together, but had not ſo much as a ſalute from the Caſtle of <hi>Edinburgh</hi> or <hi>Dalketh,</hi> where the Enemy had a Gariſon, nor oppo<g ref="char:EOLhyphen"/>ſition from the Enemy, or any party of them made any attempt upon the Rere or otherwiſe: The Enemy alſo had another Gariſon at <hi>Redhal</hi> two miles from <hi>Edinburgh,</hi> which they kept, who fired at our Men; yet there being not above Twenty men in it, it was not held conſiderable to take it in. The great buſineſs be<g ref="char:EOLhyphen"/>ing to engage the Enemy in the Field, a convenient and advantageous place was next to be conſulted of; and the Army being drawn up upon <hi>Pencland</hi> Hills, it was held fit to Encamp the Army there, which was accordingly done, and their Tents pitched, many of them in view of <hi>Edinburgh</hi> City and Caſtle that night, from whence we received not any Alarm.</p>
+            <p>This day the Intelligence from <hi>Edinburgh</hi> was, That the Scotiſh Army was now put to a greater ſtraight then ever, to ſee us come behinde them, which hindred their Supplies from <hi>Fife;</hi> ſo that their Al<g ref="char:EOLhyphen"/>lowance is a peny Loaf for two men for Twenty four hours, which was held ſo little, and ſo unlikely to hold out, that many of their Soldiers ran away from them: yet many of the Horſe had new Lances made
+<pb n="4" facs="tcp:165718:3"/>
+               <!-- PDF PAGE 73 -->them, with two Iron Pegs on each ſide, beſides the Pike at the end, that in caſe the one ſhould break, they might do execution with the other.</p>
+            <p>The people on that ſide <hi>Edinburgh</hi> were all fled with their Barns, Guids and Geer, being perſwaded by their Grandees, That the Army would deſtroy all by Fire and Sword, they ran away as far as <hi>Queens Ferry:</hi> Two Troops of Horſe, and about Seven hun<g ref="char:EOLhyphen"/>dred Highlanders, which were coming for their relief, were ſent to by a Poſt to go back to <hi>Sterling.</hi> When our men fired the Fur-buſhes, they told the people they were firing of Houſes. Our Ships all this march attended the Army with Proviſions, but the Paſſes were too dangerous for the Army to march near the Sea.</p>
+            <p>Wedneſday <hi>Auguſt</hi> 14. in the morning betimes there came a Trumpeter from Lieutenant General Sir <hi>David Leſley,</hi> with the Letter and Declaration in<g ref="char:EOLhyphen"/>cloſed from him, which was read to ſo many of the Officers as could be got together, and in the preſence of the Enemies Trumpeter; and after ſome debate, the incloſed Anſwer was returned thereunto.</p>
+            <p>But that things might appear to look more towards an Accommodation, there was a<note n="*" place="margin">
+                  <hi>Col.</hi> Gib<g ref="char:EOLhyphen"/>by Carre.</note> great Commander of the Enemies, who ſent for the Captain of the Guard that commanded the party of Horſe that were neareſt the City, and upon ſecurity of a free return, a Lieutenant of Major General <hi>Lamberts</hi> Regiment, who was then on the Guard, went to him, with whom he had much diſcourſe, concerning the grounds of the preſent Engagement againſt them; by which he perceived, that many of them were deluded by the
+<pb n="5" facs="tcp:165718:3"/>
+               <!-- PDF PAGE 73 -->Malignants ſpecious Pretences; and that the more honeſt and godly party did begin to think of taking another courſe: He declared, That they were not in a capacity to fight us, but to keep in their Trenches, and truſt to the protection of the Almighty. This way of Reconcilement being thought the beſt iſſue of all the hardſhips and labors of this Army, to gain a Conqueſt without blood, or taking away the lives of men. Some more freedom was taken by the Officers, to confer with thoſe of the Enemy they found to be ingenious and Religious; by which they perceived, That their King having refuſed to Sign a Declaration of his Renouncing and Declaring againſt the Miſcar<g ref="char:EOLhyphen"/>riage of his Father, and his Repentance of all the Blood that was ſhed in his Fathers time, by his Fathers or his own Means, and to reſolve to adhere to the Cauſe of God, the Kirk and Covenant: They had thoughts of relinquiſhing him, and to act upon ano<g ref="char:EOLhyphen"/>ther Accompt. It is obſervable, That upon the day when our Army drew off from <hi>Edinburgh,</hi> at their firſt coming before it, when their King would have come forth to have charg'd in perſon, the Lord General <hi>Leven</hi> told him, That if he did it, he would lay down his Commiſſion.</p>
+            <p>Thurſday <hi>Auguſt</hi> 15. This day by reaſon of the want of Proviſions, our Army went back to <hi>Muſcle<g ref="char:EOLhyphen"/>borough,</hi> where the Ships were ready with proviſions of Bread and Cheeſe, which was taken in. The laſt night the Enemy made no Sally at all, nor in all this days march, nor made any other attempt, onely at the paſſing of ſome of our men by <hi>Dalketh,</hi> they diſ<g ref="char:EOLhyphen"/>charged two Drakes. At our marching back by
+<pb n="6" facs="tcp:165718:4"/>
+               <!-- PDF PAGE 74 -->
+               <hi>Edinburgh,</hi> the Enemy received a great Alarm, and removed their Guns from the further ſide of <hi>Leith</hi> to this ſide: Lieutenant General <hi>Leſley</hi> ſent a party with two great Guns to ſecure a Paſs towards the <hi>Queens Ferry.</hi> This day (being the firſt day of the Parlia<g ref="char:EOLhyphen"/>ments ſitting) the Prince ſhould have been Crowned, but in regard of his refuſing to Sign the Declaration before mentioned, it was ſuſpended,</p>
+            <p>Friday <hi>Auguſt</hi> 16. The Forty five thouſand pounds being come for the pay of the Army, both Horſe and Foot Muſter'd that day, proviſions were then deliver<g ref="char:EOLhyphen"/>ed out for ſix or ſeven days, in order to a further march.</p>
+            <closer>
+               <dateline>
+                  <hi>From the Camp in</hi> Muſcleborough-<hi>Fields,</hi> 
+                  <date>
+                     <hi>Aug.</hi> 16. 1650.</date>
+               </dateline>
+            </closer>
+            <pb n="7" facs="tcp:165718:4"/>
+            <!-- PDF PAGE 74 -->
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>My LORD,</salute>
+            </opener>
+            <p>I Am Commanded by the Committee of Eſtates of this Kingdom, and Deſired by the Commiſ-miſſioners of the General Aſſembly, to ſend un<g ref="char:EOLhyphen"/>to your Excellency this incloſed Declaration, as that which containeth the ſtate of the Quarrel; wherein we are reſolved, by the Lords aſſiſtance, to fight your Army, when the Lord ſhall be pleaſed to call us thereunto. And as you have profeſſed you will not conceal any of our Papers, I do deſire, That this Declaration may be made known to all the Officers of your Army; and ſo I reſt,</p>
+            <closer>
+               <signed>Your Excellency's moſt humble Servant, <hi>DAVID LESLEY.</hi>
+               </signed>
+               <dateline>
+                  <hi>Bruchton,</hi> 
+                  <date>13 <hi>Aug.</hi> 1650.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>For His Excellency the Lord General</hi> Cromwel.</p>
+            </postscript>
+            <pb n="8" facs="tcp:165718:5"/>
+            <!-- PDF PAGE 75 -->
+         </div>
+         <div type="letter">
+            <head>Weſt-kirk, the 13 day of Auguſt, 1650.</head>
+            <p>THe Commiſsion of the General Aſſembly conſider<g ref="char:EOLhyphen"/>ing, That there may be juſt ground of ſtumbling, from the Kings Majeſties refuſing to ſubſcribe and emit the Declaration offered unto him by the Commit<g ref="char:EOLhyphen"/>tee of Estates, and Commiſsioners of the General Aſ<g ref="char:EOLhyphen"/>ſembly, concerning his former carriage, and Reſolu<g ref="char:EOLhyphen"/>tions for the future, in reference to the Cauſe of God, and the Enemies and Friends thereof; Doth there<g ref="char:EOLhyphen"/>fore Declare, That this Kirk and Kingdom do not own nor eſpouſe any Malignant Party, or Quarrel or Intereſt, but that they fight meerly upon their former Grounds and Principles, and in defence of the Cauſe of God and of the Kingdom, as they have done theſe Twelve years paſt: And therefore as they do diſclaim all the ſin and guilt of the King and of his Houſe; ſo they will not own him, nor his Intereſt, otherwiſe then with a ſubor<g ref="char:EOLhyphen"/>dination to God, and ſo far as he owns and proſecutes the Cauſe of God, and diſclaims his and his Fathers oppoſition to the Work of God, and to the Covenant, and likewiſe all the enemies thereof: And that they will with convenient ſpeed, take in conſideration the Papers lately ſent unto them from <hi>Oliver Cromwel,</hi> and vindicate themſelves from all the falſhoods con<g ref="char:EOLhyphen"/>tained therein, eſpecially in thoſe things, wherein the the quarrel betwixt us and that party, is miſ-stated, as if we owned the late Kings proceedings, and were re<g ref="char:EOLhyphen"/>ſolved to proſecute and maintain His preſent Majeſties
+<pb n="12" facs="tcp:165718:5"/>
+               <!-- PDF PAGE 75 -->Intereſt, before, and without acknowledgment of the ſins of His Houſe and former ways, and ſatisfaction to Gods people in both Kingdoms.</p>
+            <closer>
+               <signed>A. Ker.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <dateline>
+                  <date>13. Auguſt. 1650.</date>
+               </dateline>
+            </opener>
+            <p>THe Committee of Eſtates having ſeen and conſider<g ref="char:EOLhyphen"/>ed a Declaration of the Commiſsion of the General Aſſembly, anent the ſtating of the quarrel, whereon the Army is to fight, Do approve the ſame, and heartily concur therein.</p>
+            <closer>
+               <signed>Tho. Henderſon.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="10" facs="tcp:165718:6"/>
+            <!-- PDF PAGE 76 -->
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Received yours of the thirteenth inſtant, with the Paper you mentioned therein incloſed, which I cauſed to be read in the preſence of ſo many Offi<g ref="char:EOLhyphen"/>cers as could well be gotten together, to which your Trumpet can witneſs; we return you this Anſwer, by which I hope in the Lord it will appear, That we con<g ref="char:EOLhyphen"/>tinue the ſame we have profeſt our ſelves to the honeſt people in <hi>Scotland,</hi> wiſhing to them as to our own ſouls, it being no part of our buſineſs to hinder any of them from worſhipping God in that way they are ſatisfied in their Conſciences by the Word of God they ought (though different from us) but ſhall therein be ready to perform what obligation lies upon us by the Covenant; but that under the pretence of the Covenant miſtaken, and wreſted from the moſt native intent and equity thereof, a King ſhould be taken in by you, to be impoſed upon us, and this cal<g ref="char:EOLhyphen"/>led <hi>The Cauſe of God and the Kingdom;</hi> and this done upon the ſatisfaction of Gods people in both Nations, as is alleaged, together with a diſowning of Malig<g ref="char:EOLhyphen"/>nants; although he who is the Head of them, in whom all their hope and comfort lies, be received; who at this very inſtant hath a Popiſh party fighting for, and under him in <hi>Ireland;</hi> hath P. <hi>Rupert</hi> (a man who hath had his hand deep in the blood of many innocent men of <hi>England</hi>) now in the head of our Ships ſtoln from us upon a Malignant accompt; hath the French and Iriſh Ships daily making Depredations upon our Coaſts, and ſtrong combinations by the Malignants
+<pb n="11" facs="tcp:165718:6"/>
+               <!-- PDF PAGE 76 -->in <hi>England,</hi> to raiſe Armies in our Bowels, by vertue of his Commiſſions, who having of late iſſued out very many to that purpoſe; and how the intereſt you pre<g ref="char:EOLhyphen"/>tend you have received him upon, and the Malignant intereſt in the ends and conſequences centring in this Man, can be ſecured, we cannot diſcern; and how we ſhould believe, that whilſt known and notorious Malig<g ref="char:EOLhyphen"/>nants, fighting and plotting againſt us on the one hand, and the declaring for him on the other, ſhould not be an eſpouſing of a Malignant-party quarrel or intereſt, but be a meer fighting upon former Grounds and Principles, and in the defence of the Cauſe of God, and of the Kingdom, as hath been theſe twelve yeers laſt paſt (as you ſay) For the ſecurity and ſatisfaction of Gods people in both Nations, or the oppoſing of which, ſhould render us enemies to the godly with you, we cannot well underſtand, eſpecially conſider<g ref="char:EOLhyphen"/>ing, That all theſe Malignants take their confidence and encouragement from the late Tranſactions of your Kirk and State with your King; for as we have already ſaid, ſo we tell you again, It is but ſatisfying Security to thoſe that employ us, and are concerned in that we ſeek, which we conceive will not be by a few formal and feigned Submiſſions from a perſon, who could not tell otherwiſe how to accompliſh his Malignants ends; and therefore councelled to this compliance, by them who aſſiſted his Father, and have hitherto acted him in his moſt evil and deſperate Deſigns, and are now again by them ſet on foot; againſt which, how you will be able in the way you are in, to ſecure us or your ſelves, is (foraſmuch as concerns our ſelves) our duty to look after.</p>
+            <pb n="12" facs="tcp:165718:7"/>
+            <!-- PDF PAGE 77 -->
+            <p>If the ſtate of your quarrel be thus, upon which, as you ſay you reſolve to fight our Army, you will have opportunity to do that, elſe what means our abode here? And if our hope be not in the Lord, it will be ill with us. We commit both you and our ſelves to him, who knows the Heart, and tries the Reins, with whom are all our ways, who are able to do for us and you, above what we know; which we deſire may be in much mercy to his poor people, and to the glory of his own great Name: and having performed your de<g ref="char:EOLhyphen"/>ſire in making your Papers ſo publique, as is before expreſt, I deſire you to do the like, by letting the State, Kirk and Army have the knowledg hereof. To which end, I have ſent you incloſed two Copies, and reſt your humble ſervant,</p>
+            <closer>
+               <signed>O. Cromwel.</signed>
+               <dateline>
+                  <hi>From the Camp at</hi> Pentland <hi>Hills,</hi> 
+                  <date>14. Auguſt. 1650.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
